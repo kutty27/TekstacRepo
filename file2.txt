@@ -1,1 +1,3 @@
 This txt file is created Under Tek User 2
+
+Hi this msg was writing after the fork.
